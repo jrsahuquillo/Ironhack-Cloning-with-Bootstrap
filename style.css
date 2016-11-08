@@ -75,10 +75,9 @@ li a:hover, .navigation li a:active {
     border: 2px solid #FFF;
     border-radius: 0px;
 }
-.slider .btn .btn-transparent{
-	text-align: center;
-	align-content: center;
-	margin: auto;
+
+.slider-text button {
+	margin: 0% 45%;
 }
 
 .features {
